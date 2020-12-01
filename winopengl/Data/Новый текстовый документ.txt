@@ -1,0 +1,17 @@
+name:
+1) Figure:
+   t - triangle
+   r - rectangle
+   c - circle
+2) Num:
+   1
+   2
+   3
+3) Color:
+   r - red
+   g - green
+   b - blue
+4) Zalivka:
+   0 - none
+   05 - 1/2
+   1 - full

@@ -1,0 +1,30 @@
+﻿  winopengl.cpp
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(226,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(227,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(242,23): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(242,15): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(243,23): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(243,15): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(244,23): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(244,15): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(245,23): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(245,15): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(256,25): warning C4244: аргумент: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(256,18): warning C4244: аргумент: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(256,13): warning C4244: аргумент: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(276,71): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(276,49): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(277,71): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(277,49): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(278,71): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(278,49): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(279,71): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(279,49): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(298,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(692,23): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\MSVS Projects\winopengl\winopengl\winopengl.cpp(692,59): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 314 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  winopengl.vcxproj -> D:\MSVS Projects\winopengl\Release\winopengl.exe
